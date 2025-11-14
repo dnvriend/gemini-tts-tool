@@ -49,3 +49,10 @@ dmypy.json
 # OS
 .DS_Store
 Thumbs.db
+
+# Audio output files (test artifacts)
+*.wav
+*.mp3
+*.ogg
+*.m4a
+*.flac
